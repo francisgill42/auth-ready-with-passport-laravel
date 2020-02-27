@@ -21,7 +21,7 @@ step 9 => http://localhost:8000/api/register (use api tester) parameters => (nam
 step 10 => http://localhost:8000/api/login (use api tester) parameters => (email,password)
 <br>
 step 11 => http://localhost:8000/api/me (use api tester to get user details with token) 
-           parameters => (token)
-           headers => 1. Authorization => Bearer {{token}} 2. Accept => application/json
+           <br>parameters => (token)
+           <br>headers => 1. Authorization => Bearer {{token}} 2. Accept => application/json
            (get token from login or register response) 
                  
