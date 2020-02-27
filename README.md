@@ -5,8 +5,8 @@ step 2 =>  cd auth-ready-with-passport-laravel
 step 3 => copy .env.example .env
 <br>
 step 4 => composer update
-<br>step 5 => php artisan key:generate
-
+<br>
+step 5 => php artisan key:generate
 <br>
 step 6 => configure database
 <br>
