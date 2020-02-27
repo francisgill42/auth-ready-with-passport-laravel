@@ -16,9 +16,7 @@ step 7 => php artisan passport:install
 <br>
 step 8 => php artisan serve
 <br>
-step 9 => http://localhost:8000/api/register (use api tester)
-                 parameters => (name,email,password,c_password)               
+step 9 => http://localhost:8000/api/register (use api tester) parameters => (name,email,password,c_password)
 <br>
-step 10 => http://localhost:8000/api/login (use api tester)
-                 parameters => (email,password) 
+step 10 => http://localhost:8000/api/login (use api tester) parameters => (email,password) 
                  
